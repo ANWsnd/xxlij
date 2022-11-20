@@ -3,3 +3,4 @@ vless://9399a896-c461-4265-b9b6-36e0aebd8455@us2.v2vless.xyz:443?path=%2Fvless&s
 vless://cc74fde6-a27f-4834-a826-a65b6f83ed3e@fr1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=fr1.v2vless.xyz&sni=gtdggggh&type=ws#sshocean-defvgb
 vless://a5522bf5-1213-4de8-9e0d-437bdb80090d@fr2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=fr2.v2vless.xyz&sni=fr2.v2vless.xyz&type=ws#sshocean-yyghjgj
 vless://39d834ac-aa1a-4ebe-981f-d516fba3cdcc@de1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=de1.v2vless.xyz&type=ws#sshocean-hujhuhhj
+vless://16d10063-5b33-48ee-b0ac-0efdaf9c8048@nl1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=nl1.v2vless.xyz&type=ws#sshocean-hghgh
